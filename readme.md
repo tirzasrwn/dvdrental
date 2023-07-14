@@ -14,6 +14,11 @@ This is postgres dvd rental database very useful to playing with queries.
 
 ![PostgreSQL Tutorial DVD Rental ER Diagram](./data/er_diagram.png)
 
+## Requirement
+
+- docker
+- make
+
 ## Running
 
 ```sh
