@@ -23,6 +23,8 @@ make
 make docker_stop
 ```
 
+![Running](./data/running.png)
+
 ## Connect to Database
 
 Credentials:
@@ -31,4 +33,5 @@ Credentials:
 name: dvdrental
 user: postgres
 password: postgres
+port: 5432
 ```
