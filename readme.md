@@ -40,3 +40,7 @@ user: postgres
 password: postgres
 port: 5432
 ```
+
+## Queries Example
+
+[queries.md](./data/queries.md)
